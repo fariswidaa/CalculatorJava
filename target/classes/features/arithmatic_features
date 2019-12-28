@@ -1,0 +1,21 @@
+in this file i'll add the features i
+need for the calculator , and for the Business Requirements
+// The Name of the Feature
+// the Scenario
+
+Features : Multiplication of two numbers , as a student ,
+ i want to multiply two numbers , and find the product of them
+
+Scenario : Open the Calculator , entering the right , left numbers ,
+and find the product of them
+
+/////////////////////////
+// when , Given , Then //
+////////////////////////
+
+
+Given : Two Integers 3 , and 6
+
+when : these numbers are multiplied using (*)
+
+Then : the result is 18
